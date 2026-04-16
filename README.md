@@ -31,3 +31,5 @@ Program içerisinde aşağıdaki temel programlama teknikleri ve kütüphaneler 
 
 ## Görsel Örnek
 Program çalıştırıldığında oluşturulan başarı dağılım grafiği "basari_grafigi.png" adıyla kaydedilir ve otomatik olarak görüntülenir.
+<img width="1000" height="600" alt="basari_grafigi" src="https://github.com/user-attachments/assets/3cae4016-383d-4f38-bafa-69118d7a075b" />
+
